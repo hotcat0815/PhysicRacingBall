@@ -4,5 +4,11 @@
         "checkID": "All",
         "rewardsString": "Diamond:2",
         "message": "恭喜获得奖励"
+    },
+    {
+        "giftID": "222",
+        "checkID": "26776834",
+        "rewardsString": "Diamond:11",
+        "message": "恭喜兑换成功！！！"
     }
 ]
