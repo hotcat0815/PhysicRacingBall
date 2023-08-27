@@ -1,2 +1,2 @@
 Mode:Keyword
-KeyWord:物理弹球;弹珠
+Keyword:物理弹球;弹珠
