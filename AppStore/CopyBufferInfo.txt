@@ -1,2 +1,2 @@
-Mode:All
+Mode:None
 Keyword:物理弹球;弹珠
